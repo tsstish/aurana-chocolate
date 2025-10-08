@@ -3,6 +3,7 @@ services:
     name: aurana-chocolate
     runtime: python
     plan: free
+    branch: master
     buildCommand: "./build.sh"
     startCommand: "gunicorn aurana.wsgi:application"
     envVars:
