@@ -1,0 +1,20 @@
+[
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Yi9gKymO72Mcsms4cVxVwc$YzYQ7qxHl0aEJzz95kfMmcy4OIbPDRLNLFeld8NISS4=",
+    "last_login": "2025-10-07T21:42:09.374Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "tss.tish.tss@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-10-07T21:23:03.729Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
