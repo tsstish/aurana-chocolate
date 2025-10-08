@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Каталог - Aurana Chocolate</title>
+    {% load static tailwind_tags %}
+    {% tailwind_css %}
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        .neo-card {
+            background: rgba(250, 250, 250, 0.9);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(220, 220, 220, 0.3);
+            box-shadow: 
+                0 8px 32px 0 rgba(20, 20, 20, 0.1),
+                inset 0 1px 0 0 rgba(255, 255, 255, 0.6);
+        }
+        .gradient-bg {
+            background: linear-gradient(135deg, 
+                rgba(67, 40, 24, 0.95) 0%, 
+                rgba(101, 67, 33, 0.9) 50%, 
+                rgba(141, 85, 36, 0.85) 100%);
+        }
+        .puffy-btn {
+            background: linear-gradient(145deg, #8B5A3C, #6F4C34);
+            box-shadow: 0 4px 15px rgba(139, 90, 60, 0.4);
+            transition: all 0.3s ease;
+        }
+        .puffy-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(139, 90, 60, 0.6);
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.25);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .text-glow {
+            text-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+        }
+        .hover-lift {
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+        .hover-lift:hover {
+            transform: translateY(-8px) scale(1.02);
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-amber-50 via-amber-100 to-amber-50 font-['Inter'] min-h-screen">
+    <!-- Шапка -->
+    <header class="bg-white/80 backdrop-blur-md border-b border-white/20 sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center space-x-3">
+                <div class="w-10 h-10 bg-gradient-to-br from-amber-600 to-amber-800 rounded-2xl flex items-center justify-center shadow-lg hover-lift">
+                    <span class="text-white text-lg">🍫</span>
+                </div>
+                <h1 class="text-xl font-bold text-amber-900 font-['Playfair_Display']">Aurana</h1>
+            </div>
+            
+            <!-- Десктопное меню -->
+            <nav class="hidden md:flex space-x-8 items-center">
+                <a href="/" class="text-amber-700 hover:text-amber-600 transition-all duration-300 font-medium hover-lift">Главная</a>
+                <a href="/catalog/" class="text-amber-700 font-semibold transition-all duration-300 font-medium border-b-2 border-amber-600">Каталог</a>
+                <a href="/cart/" class="text-amber-700 hover:text-amber-600 transition-all duration-300 font-medium relative hover-lift">
+                    Корзина
+                    {% if cart_total > 0 %}
+                    <span class="absolute -top-3 -right-3 bg-gradient-to-r from-amber-600 to-amber-800 text-white rounded-full w-6 h-6 text-xs flex items-center justify-center shadow-lg animate-pulse">
+                        {{ cart_total }}
+                    </span>
+                    {% endif %}
+                </a>
+                {% if client %}
+                <div class="flex items-center space-x-4">
+                    <a href="/profile/" class="puffy-btn text-white font-bold py-2 px-6 rounded-2xl text-sm hover-lift">
+                        👋 {{ client.name }}
+                    </a>
+                    <a href="/logout/" class="text-amber-600 hover:text-amber-800 text-sm font-medium hover-lift">
+                        Выйти
+                    </a>
+                </div>
+                {% else %}
+                <a href="/login/" class="puffy-btn text-white font-bold py-2 px-6 rounded-2xl text-sm hover-lift">
+                    Войти в ЛК
+                </a>
+                {% endif %}
+            </nav>
+
+            <!-- Мобильное меню -->
+            <div class="md:hidden flex items-center space-x-4">
+                <a href="/cart/" class="relative p-2 hover-lift">
+                    <div class="w-8 h-8 bg-gradient-to-br from-amber-600 to-amber-800 rounded-xl flex items-center justify-center shadow-lg">
+                        <span class="text-white text-sm">🛒</span>
+                    </div>
+                    {% if cart_total > 0 %}
+                    <span class="absolute -top-1 -right-1 bg-amber-700 text-white rounded-full w-5 h-5 text-xs flex items-center justify-center shadow-lg animate-bounce">
+                        {{ cart_total }}
+                    </span>
+                    {% endif %}
+                </a>
+                
+                <button id="menu-toggle" class="p-2 hover-lift">
+                    <div class="w-8 h-8 bg-gradient-to-br from-amber-600 to-amber-800 rounded-xl flex items-center justify-center shadow-lg">
+                        <span class="text-white text-lg">☰</span>
+                    </div>
+                </button>
+            </div>
+        </div>
+
+        <!-- Выпадающее мобильное меню -->
+        <div id="mobile-menu" class="md:hidden bg-white/95 backdrop-blur-md hidden absolute top-full left-0 right-0 shadow-2xl border-b border-amber-200">
+            <div class="container mx-auto px-4 py-4 space-y-4">
+                <a href="/" class="block py-3 text-amber-900 hover:text-amber-600 border-b border-amber-100 font-medium transition-all duration-300 hover-lift">Главная</a>
+                <a href="/catalog/" class="block py-3 text-amber-900 font-semibold border-b border-amber-100 font-medium transition-all duration-300">Каталог</a>
+                {% if client %}
+                <a href="/profile/" class="block py-3 text-amber-900 hover:text-amber-600 border-b border-amber-100 font-medium transition-all duration-300 hover-lift">👋 {{ client.name }}</a>
+                <a href="/logout/" class="block py-3 text-amber-900 hover:text-amber-600 font-medium transition-all duration-300 hover-lift">Выйти</a>
+                {% else %}
+                <a href="/login/" class="block py-3 text-amber-900 hover:text-amber-600 font-medium transition-all duration-300 hover-lift">Войти в ЛК</a>
+                {% endif %}
+            </div>
+        </div>
+    </header>
+
+    <!-- Герой каталога -->
+    <section class="relative py-12 bg-gradient-to-br from-amber-200/30 to-amber-300/20 overflow-hidden">
+        <div class="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg%20width%3D%2260%22%20height%3D%2260%22%20viewBox%3D%220%200%2060%2060%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Cg%20fill%3D%22%238B5A3C%22%20fill-opacity%3D%220.05%22%3E%3Ccircle%20cx%3D%2230%22%20cy%3D%2230%22%20r%3D%222%22%2F%3E%3C/g%3E%3C/g%3E%3C/svg%3E')]"></div>
+        <div class="container mx-auto px-4 text-center relative z-10">
+            <h1 class="text-4xl md:text-5xl font-bold text-amber-900 mb-4 font-['Playfair_Display']">
+                Наша коллекция
+            </h1>
+            <p class="text-lg text-amber-700 max-w-2xl mx-auto">
+                Откройте для себя мир изысканного шоколада ручной работы
+            </p>
+        </div>
+        
+        <!-- Декоративные элементы -->
+        <div class="absolute top-10 left-10 w-20 h-20 bg-amber-400/20 rounded-full blur-xl"></div>
+        <div class="absolute bottom-10 right-10 w-32 h-32 bg-amber-600/10 rounded-full blur-2xl"></div>
+    </section>
+
+    <!-- Сообщения -->
+    {% if cart_message %}
+    <div class="container mx-auto px-4 pt-8">
+        <div class="glass-card rounded-2xl p-4 max-w-2xl mx-auto border-l-4 border-amber-500 animate-fadeIn">
+            <p class="text-amber-700 font-medium">🎉 {{ cart_message }}</p>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Фильтры по категориям -->
+    <section class="py-8">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-center">
+                <div class="glass-card rounded-2xl p-2 flex flex-wrap justify-center gap-2 max-w-2xl">
+                    <a href="/catalog/" 
+                       class="px-4 py-2 rounded-xl text-sm font-medium transition-all duration-300 hover-lift {% if not selected_category %}puffy-btn text-white{% else %}text-amber-700 hover:bg-amber-50/50{% endif %}">
+                        Все товары
+                    </a>
+                    {% for value, label in categories %}
+                    <a href="?category={{ value }}" 
+                       class="px-4 py-2 rounded-xl text-sm font-medium transition-all duration-300 hover-lift {% if selected_category == value %}puffy-btn text-white{% else %}text-amber-700 hover:bg-amber-50/50{% endif %}">
+                        {{ label }}
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Сетка товаров -->
+    <section class="pb-20">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                {% for product in products %}
+                <div class="neo-card rounded-2xl overflow-hidden group hover-lift animate-fadeIn">
+                    <!-- Фото товара -->
+                    <div class="h-48 relative overflow-hidden">
+                        {% if product.image %}
+                        <img src="/media/{{ product.image }}" alt="{{ product.name }}" 
+                             class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
+                        {% else %}
+                        <div class="w-full h-full bg-gradient-to-br from-amber-500 to-amber-700 flex items-center justify-center">
+                            <span class="text-5xl">🍫</span>
+                        </div>
+                        {% endif %}
+                        <div class="absolute top-3 right-3 glass-card rounded-full px-3 py-1 text-sm font-bold text-amber-900 backdrop-blur-sm">
+                            {{ product.price }} ₽
+                        </div>
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    </div>
+                    
+                    <div class="p-5">
+                        <h3 class="text-lg font-bold text-amber-900 mb-2 line-clamp-2 group-hover:text-amber-700 transition-colors duration-300">{{ product.name }}</h3>
+                        <p class="text-amber-700 text-sm mb-4 line-clamp-2 leading-relaxed">{{ product.description|default:"Шедевр шоколадного искусства с неповторимым вкусом" }}</p>
+                        
+                        <div class="flex justify-between items-center">
+                            <span class="text-xl font-bold text-amber-600">{{ product.price }} ₽</span>
+                            <a href="{% url 'add_to_cart' product.id %}" 
+                               class="puffy-btn text-white px-5 py-2 rounded-xl text-sm font-bold transition-all duration-300 transform hover:scale-110">
+                                + В корзину
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                {% empty %}
+                <div class="col-span-full text-center py-16">
+                    <div class="neo-card rounded-2xl p-12 max-w-md mx-auto">
+                        <div class="text-6xl mb-4">🍫</div>
+                        <h3 class="text-xl font-bold text-amber-900 mb-4 font-['Playfair_Display']">Скоро здесь будет шоколад!</h3>
+                        <p class="text-amber-700">Наши шоколатье готовят новые вкусы</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <script>
+    // Мобильное меню с анимацией
+    document.addEventListener('DOMContentLoaded', function() {
+        const menuToggle = document.getElementById('menu-toggle');
+        const mobileMenu = document.getElementById('mobile-menu');
+        
+        menuToggle.addEventListener('click', function() {
+            mobileMenu.classList.toggle('hidden');
+            mobileMenu.classList.toggle('animate-slideDown');
+        });
+        
+        document.addEventListener('click', function(event) {
+            if (!event.target.closest('#mobile-menu') && !event.target.closest('#menu-toggle')) {
+                mobileMenu.classList.add('hidden');
+            }
+        });
+
+        // Плавное появление элементов
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        // Наблюдаем за карточками товаров
+        document.querySelectorAll('.animate-fadeIn').forEach(el => {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(20px)';
+            el.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(el);
+        });
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Заказ оформлен - Aurana Chocolate</title>
+    {% load static tailwind_tags %}
+    {% tailwind_css %}
+</head>
+<body class="bg-rose-50">
+    <!-- Шапка -->
+    <header class="bg-rose-950 text-white">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center">
+                <span class="text-2xl mr-2">🍫</span>
+                <h1 class="text-2xl font-bold">Aurana Chocolate</h1>
+            </div>
+            <nav class="hidden md:flex space-x-6 items-center">
+                <a href="/" class="hover:text-rose-200">Главная</a>
+                <a href="/catalog/" class="hover:text-rose-200">Каталог</a>
+                <a href="/cart/" class="hover:text-rose-200">Корзина</a>
+                {% if client %}
+                <!-- Если клиент авторизован -->
+                <div class="flex items-center space-x-4">
+                    <a href="/profile/" class="bg-amber-500 hover:bg-amber-600 text-white font-bold py-2 px-4 rounded-full text-sm transition duration-300">
+                        👋 {{ client.name }}
+                    </a>
+                    <a href="/logout/" class="text-rose-200 hover:text-white text-sm">
+                        Выйти
+                    </a>
+                </div>
+                {% else %}
+                <!-- Если клиент не авторизован -->
+                <a href="/login/" class="bg-amber-500 hover:bg-amber-600 text-white font-bold py-2 px-4 rounded-full text-sm transition duration-300">
+                    Войти в ЛК
+                </a>
+                {% endif %}
+            </nav>
+        </div>
+    </header>
+
+    <!-- Успешный заказ -->
+    <section class="container mx-auto px-4 py-16">
+        <div class="max-w-2xl mx-auto text-center">
+            <div class="text-6xl mb-6">🎉</div>
+            <h2 class="text-4xl font-bold text-rose-900 mb-4">Заказ оформлен!</h2>
+            <p class="text-xl text-rose-700 mb-8">Спасибо за ваш заказ! Мы свяжемся с вами для подтверждения.</p>
+            
+            {% if order %}
+            <div class="bg-white rounded-2xl shadow-lg p-6 mb-6">
+                <h3 class="text-2xl font-bold text-rose-800 mb-4">Детали заказа</h3>
+                <p class="text-rose-700 mb-2"><strong>Номер заказа:</strong> #{{ order.id }}</p>
+                <p class="text-rose-700 mb-2"><strong>Сумма:</strong> {{ order.total_amount }} ₽</p>
+                <p class="text-rose-700 mb-2"><strong>Статус:</strong> {{ order.get_status_display }}</p>
+                {% if order.bonus_earned > 0 %}
+                <p class="text-green-600 font-semibold"><strong>Начислено бонусов:</strong> +{{ order.bonus_earned }}</p>
+                {% endif %}
+            </div>
+
+            {% if client %}
+            <div class="bg-amber-50 rounded-2xl p-6 mb-6">
+                <h3 class="text-xl font-bold text-amber-800 mb-2">🎁 Добро пожаловать в клуб VIP-клиентов!</h3>
+                <p class="text-amber-700">Теперь у вас есть личный кабинет с историей заказов и бонусными баллами.</p>
+                <p class="text-amber-700 mt-2">Ваш текущий баланс: <strong>{{ client.bonus_points }} бонусов</strong></p>
+                
+                <div class="mt-4">
+                    <a href="/vip/register/{{ client.id }}/" 
+                       class="inline-block bg-amber-500 hover:bg-amber-600 text-white font-bold py-2 px-6 rounded-full transition duration-300">
+                        📱 Открыть личный кабинет
+                    </a>
+                </div>
+            </div>
+            {% endif %}
+            
+            {% endif %}
+            
+            <div class="space-y-4">
+                <a href="/catalog/" 
+                   class="inline-block bg-amber-500 hover:bg-amber-600 text-white font-bold py-3 px-8 rounded-full transition duration-300">
+                    Продолжить покупки
+                </a>
+                <br>
+                <a href="/" 
+                   class="inline-block border border-rose-300 text-rose-700 hover:bg-rose-50 font-bold py-3 px-8 rounded-full transition duration-300">
+                    На главную
+                </a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
