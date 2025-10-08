@@ -1,0 +1,2987 @@
+[
+{
+  "model": "clients.vipclient",
+  "pk": "00c62250-5258-4959-bb69-aa1cfc618360",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.147Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "011df2a2-13f1-44eb-9655-7af179e19c3c",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.316Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "02cd3995-4161-4727-94bd-9e2bbb345b32",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.363Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "04bb910c-b23c-4022-9bf9-7a69c568fcaa",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.929Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "0564a3b5-b235-4d56-97cc-21ed4d67af17",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.308Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "06c793ff-eeeb-4fe7-8902-c565575bc406",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.444Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "0722bd57-1e97-42fb-b1ae-384735ceccca",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.578Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "09efa4b8-0440-4d4f-9933-e24137021558",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.914Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "0a592355-9eaf-4ccd-8f86-08748555898d",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.985Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "0b8dad56-8ed9-4fac-8e72-47670a20b481",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.016Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "0d430d55-304f-4697-9800-60db1976dfe6",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.188Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "0df13c24-7f70-42a7-8123-c0c5e645604b",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.924Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "0ecf32b3-b555-4414-b30b-081a78c5c4a5",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.944Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "1017752d-b0a6-4691-bbfe-e37ecc27e8b4",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.790Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "120ffa3b-8249-4189-a414-d2e0e68b9db7",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.490Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "121b47d6-f6d1-49e3-bf20-33e83dec7c69",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.581Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "12f39e4b-ca2a-4a57-b24f-703c0d542b64",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.097Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "133bd89b-9a22-4638-9559-1c22b96b4d3c",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.023Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "13d83a35-be15-4794-9912-da1e7cebf94d",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.014Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "1569926a-3e6a-4c0c-a1c7-9608a8518ed2",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.269Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "16007ac6-81cf-4107-8c4d-271be0ecf866",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.227Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "185c637c-a3af-4e18-90e9-3003d71aea47",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.428Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "197c9ceb-4249-451f-8565-43c5eb86595c",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.714Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "1ac7cbe3-9ae9-42fc-abd3-cd37d006036d",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.238Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "1d3b115b-8843-4b2f-8d07-33d7279e4b15",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.615Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "1d612bb2-c6bc-4b78-bf38-19c8221a9ded",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.714Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "1d6cd5da-2411-4728-a633-8d2ba9d9c4be",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.073Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "1e0d8cea-e247-4949-94ee-feda03098822",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.089Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "2047aa2b-4ee2-4424-865c-a08285a96adc",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.967Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "20a8a7a0-9054-4436-b8af-3fbca5f08565",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.730Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "220e7dc4-6ca6-4b8d-991d-81fd11a62c2a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.203Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "224afbdf-2981-40a5-a472-da5245d6fac0",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.194Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "22857e9e-fa01-46cb-ad43-6ef8c4abed43",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.165Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "25ea5ad4-6fb2-43bd-ba18-67a930ba1603",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.793Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "2763bc10-b3bf-4e8b-8da4-d81a336bea56",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.173Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "288cdcea-3644-4486-a115-72f1ab7e52ce",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.663Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "2a63d120-5344-4aca-8976-a02f86ab3f04",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.542Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "2ad22f02-6566-44dc-94fa-b5d7b1d78310",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.569Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "2ebd390c-42af-4555-ba74-25a50116fc01",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.259Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "342f8ede-1f06-4967-979d-9848b9ebb2ac",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.306Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "3485153b-80fd-410d-96a2-e11d2ea47eb9",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.894Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "3521943d-5671-4c96-88ae-196a528d513b",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.859Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "37021af9-71ce-4f2b-baf2-862fe930f3b2",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.780Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "38340463-fb99-4652-8129-241e729a99bd",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.773Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "3ba2b6d9-8960-4d16-b3f9-8a41e664cb93",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.120Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "3e480421-1425-4551-87b1-7ab52f272485",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.480Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "41c69fe6-0a9d-4cab-8f5e-edbe012bb0b2",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.377Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "41e33b17-2c8a-4261-928b-8c6b40e27f9c",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.039Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "438b2a30-8c7b-4de6-b11f-0501becddd60",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.214Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "43dd2667-3461-4158-a042-1ca356608de0",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.881Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "43e68a25-e03d-4bfc-8186-7ed1a06ddd0f",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.799Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "45a1fffb-9c98-4b65-a1a4-ad0245119aef",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.690Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "464f99d0-fa52-4a83-b907-dbb79c7cf830",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.281Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "4bca5510-9ca8-48e9-8337-35095fca1416",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.745Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "4c19d0c8-86e5-4909-91b2-dffd8c1a84b1",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.070Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "4c6778d8-7d27-4b25-aa56-da6b09abacb7",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.120Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "4d89c9ba-34b4-45c9-910f-916f91752f43",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.403Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "4db5ec0d-4342-444a-b120-e784020dc466",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.938Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "4f6aadfc-1330-4d19-9c4b-adc8b13f95b3",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.932Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "501e6e06-859a-498c-b5db-73a7844e9227",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.364Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "54d470be-48b7-43d4-a418-b5ca79016942",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.284Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "54f9a7df-8829-4220-8c78-bc8c958989e3",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.156Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "554f3d27-6e08-4ace-b81e-485a1d592039",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.748Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "5a7d1dc5-c4ad-47a4-8438-eebae66f4dc8",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.045Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "5ac4002e-022a-46d2-bf56-55bb1831e2f7",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.624Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "5e73f870-334e-4ed0-84da-9415420931e4",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.974Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "600dde6b-650b-4f4e-b9b5-3d5b0e1dcb28",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.827Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "603252a0-6daf-4df3-a81a-27ab657f1844",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.898Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "61cf48b7-8e92-4e1a-812c-8ffdbe9c4de1",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.550Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6273835c-9e5e-4df8-92cc-77a9cf904f9c",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.351Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "643271d7-247d-40fa-bd90-be5b9db32155",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.816Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "64362590-2a6c-46b0-9183-6c6bebf5d5a3",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.088Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "645a24ea-66b6-4f4e-a95a-9fa65e384fdc",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.648Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6496aaaa-74d8-4140-92f5-4856be11950f",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.724Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "65a54e24-1d22-4132-b1b0-8937b09a1c1a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.141Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "678d4f42-7cd0-4e85-abb4-c65dca469fb0",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.604Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "684ea70e-7324-4bda-a536-d3fe7e719cf9",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.807Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6946b40e-9a00-4abc-9bc8-ef60417d0d41",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.204Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "69df6d0f-89cb-4abd-9238-963f497033c1",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.173Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6b559b39-8f54-468e-93af-96973b179254",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.879Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6ba47940-dd6f-4e8f-af20-db48407c23bc",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.166Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6c04d54b-b551-4721-8499-801f089a7b87",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.247Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6c3079d7-83bd-4f1e-85cc-a93e4384c727",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.360Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6c3f5563-97b0-4cbd-837e-7547e48e4b39",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.995Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6d8d5414-3ce6-4c9f-a860-4917675aeffc",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.523Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6da311d8-d79d-414c-a3dc-013a68cdb354",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.768Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6e10284e-0fb2-403c-8117-21151f6b3a8d",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.654Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6e18f868-c542-45ff-bd1c-eb4bc47b978e",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.440Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6e35e388-c851-4a42-9e8b-c37d2daff50a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.249Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6e37a00c-de5d-4a5b-91df-3024cacc4e56",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.497Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "6ed252b6-8095-4c9b-b95c-a9bd83372262",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.657Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "70742a97-3ee0-45b4-8ec7-0cb3fb6c2879",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.741Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "7140a4b3-e4e0-4b40-a8f6-78708eb11146",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.394Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "71741f9d-fe8c-4768-ae53-9d0295871eb6",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.761Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "72609015-8c71-4e77-8340-270edc28cabd",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.397Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "741f2be4-148f-4845-840f-e8fc101b7ff1",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.561Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "7434e55d-ff32-4e64-a1f0-1025d183779a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.276Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "743e7199-536c-4749-a985-eba1f8cae8bd",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.009Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "78673589-bd04-4289-a5dd-32ced42f8d16",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.841Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "7998e0be-46e3-4af5-9184-f0d771beac75",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.028Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "7b46d384-198e-426a-a349-8f5f777d0971",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.857Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "7e7c7a1d-69b3-44b7-a95f-f5fc8ebb1f66",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.472Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "7fd5fd61-ec1f-4c89-bf63-a5c4aa952fd2",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.966Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "82c581d3-ffce-413d-9d1a-b0a65bb80d69",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.324Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "83b7de42-6e35-492d-be32-83749982f8c7",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.241Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "83f55349-bab0-4071-a61f-19220daa0e8a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.817Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8447f25d-1ebc-45eb-93ad-cdc707e7de74",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.686Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "875c0b6b-3a91-4fc7-ab95-c6cb3b3a1499",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.862Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8933d4d2-f785-42f0-aa83-131e3ac8b7a3",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.410Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8aa69664-a2fd-4525-a5fd-7a7cc1732ca4",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.428Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8b1a78e5-33e7-433c-bbd1-4034fbc3ccdb",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.758Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8bb66748-a11c-4f67-93dc-f1665ca0fd9e",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.518Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8c5cdb73-cd28-46c3-86d1-bc4d17066833",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.591Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8dd5002b-d903-40b1-93b0-20b0f7ddf993",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.184Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8e3b809e-30e0-4d8a-b59d-84704aa7cab7",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.105Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "8ea34273-9d91-42d7-b8a1-c191a297d55d",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.046Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "90135e96-4582-4738-88b0-c90bc386137a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.984Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "915cb8fe-347f-47fa-8dbd-8b250a065232",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.222Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "9160aec7-29fe-4f69-b2b5-976c4fe4be6a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.062Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "9adfff05-54ba-49be-a324-aecd8de4c26d",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.605Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "9c0f5bab-6ec9-4316-ac22-b6bfa1a8a142",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.080Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "9ca89712-802b-4050-b29a-d7dfb850adf9",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.374Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "9ecb71cd-8ded-4044-a01c-56ed5853d48c",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.982Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "9f22b172-598f-4ab3-8128-ec828c2b4d71",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.342Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "9fb3dafa-40e6-4410-bd57-d3262624baa5",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.906Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a3ac0309-e111-4441-8d19-d205e01b7d6b",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.875Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a3ad2c2f-86f2-4733-8811-dd73e5efefec",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.089Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a550347c-abc6-4832-8f9e-74b52578920b",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.686Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a5712695-2828-4eeb-8199-eee7be81f3eb",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.290Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a790bf29-6480-41bf-96b0-6d337f93cb9f",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.568Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a7cf4364-7615-44af-85eb-bd35fb91a3a2",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.503Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a8376c50-2b8d-4a96-a904-bfa45191b06f",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.462Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a8e113b0-00cf-47f6-a330-879fe14dfb9a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.104Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "a9fe4d96-cfed-4b49-a6ce-47ff942b1cfa",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.109Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "acb89690-62ca-46f9-b64b-a72578029e20",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.867Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "add598f2-d8df-4610-9f30-f7135733ac0a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.333Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "ae512c21-754c-4ae1-a33d-5931d05d46ac",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.845Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "b07f0d7c-e818-42ec-ac4c-eab1ebf2a6b9",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.104Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "b2d101c9-343d-4249-b0d6-e28213f33d31",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.297Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "b373b390-cc77-4654-834a-ba2b7266cfdf",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.433Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "b39ed148-4cb0-4a28-8120-ce839686f3dd",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.825Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "b4e9b6cb-5d68-4a5f-ab39-ffe8df8f381a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.702Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "b772e795-5fda-4937-9e19-12f8f0da4f97",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.957Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "bb41422a-89bc-4903-97ee-60f15d062a04",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.053Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "befbad35-e6d2-45d6-81e0-b1743e6e151d",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.783Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "c18d014a-af6a-4e07-a0c5-e50f8db52bef",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.625Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "c342166d-473c-44bf-9a62-fba4f94b664c",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.848Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "c51cf997-416d-44e5-8311-5b5040ddffb9",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.053Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "c670b6f8-3275-4c77-8997-4c4be00e8b89",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.704Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "c6b6c732-d7c6-44e5-858f-5720e81405a8",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.389Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "c804fa45-b655-4038-8990-f8f1c901af30",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.188Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "c85b99d3-d729-49a5-94d7-fcbeca600bb9",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.141Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "c8aabbce-4ab5-4c7d-aeb8-73ab7fd77775",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.408Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "ca16858b-258d-4a23-99e9-a38aabbd009c",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.264Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "cb08f3dc-5cd3-49dd-a97f-2b9b576a0c58",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.172Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "cb20dd6a-abed-4fd5-b7bf-f0f3e62ebebd",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.454Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "cb770921-2e5f-4570-85e4-84cd6b5542cf",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.139Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "cbc376f9-8a78-48fe-9f04-2f18f68507c5",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.635Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "cc11d2b1-3d98-49d4-8e26-5198ea749c8d",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.460Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "cd4d31e4-5d36-4428-93ca-fa94f78ea57f",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.590Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "cfa50b14-c509-4fc5-a6d5-a33ef2776af0",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.156Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "d1941771-ff37-4fff-ac30-65ff275b3c84",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.323Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "d30590a0-b934-4976-84a1-792e3afe8cb0",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.458Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "d60edfdf-68a4-47c4-936e-bc6e67fdde43",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.523Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "d70e2133-55ae-4c74-bceb-f31bf1526b92",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.028Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "d9c6e529-dca9-4d6e-b582-f416583c4d7a",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.947Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "d9ec1f2e-c5ab-49a1-9803-f9a9f5b034f9",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.335Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "db591b64-2fbe-4308-a462-6928e2a3702e",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.426Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "dc651ef0-854f-4f06-93b4-a4f91da50171",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.729Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "dd06275b-1162-4304-863d-2991a4c1123b",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.959Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "dd2912a3-e2f5-4e8c-a39d-2d4d6cf3fd63",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.077Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "dd6576a4-528c-4cd9-bbba-1859dfbef853",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.125Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "de079b73-7840-480c-b148-9eb168890579",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.635Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "dec5f381-0541-4b77-a292-62c594d43e54",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.831Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "e0b45ac7-e266-4f1d-9d41-9241959857d7",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.057Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "e4aa14e7-cdf5-4881-8d3b-20606d8ed198",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.680Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "e5e62e41-c557-4eac-9e5f-90fa54c0c362",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.342Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "e5ef63ab-4b00-4f18-a85c-022be938db43",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.120Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "e74f164a-acb4-4f60-8b6c-a1ff121dfe6e",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.298Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "e783f4cd-8ffe-4fcd-a8f4-55b05c533595",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.888Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "e857b6aa-6b69-4ca8-a178-34a3c036d722",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.417Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "e95c1b43-f7b2-47c5-b999-4ae2bedf653e",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.637Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "ea629ba3-e7c9-4557-abd2-e29b74dbd4e5",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.809Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "eb221abf-856b-49d8-9869-167e795c12c2",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.985Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "ec8fa7ee-294c-49f1-952f-40fa1fa41d0b",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.030Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "ef54bf12-d41e-432e-99a3-76680cc19623",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:19.211Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f22276c9-698a-4a1d-b46b-cbe54786bad6",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.410Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f305545f-8a48-4cdc-975d-034e45bc5152",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.999Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f32fcdb0-b3da-49ee-8600-1b1e52d2ce3b",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.673Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f5792f47-71e5-4404-af81-7d07f1e4c332",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.920Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f5b33898-a661-4151-a570-ce440f621cac",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.731Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f7601c6b-52fd-43f7-8265-cce579fe7605",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.912Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f798f8d9-d21a-4451-b4ce-868f092b63ca",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.668Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f98cb7b4-a851-4617-9cf3-c8a2fdfaf6cc",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.231Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f9c57e5d-a5b4-40a0-85fb-4c6aaaeccb63",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.610Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "f9ccb874-6c8d-4f91-9849-102911a589ee",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.383Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "fa339143-d08c-4bf9-9acb-dcfb1a620bb9",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:17.677Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "fd58f702-b279-4596-8f7b-df99515423aa",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.954Z",
+    "bonus_points": 0
+  }
+},
+{
+  "model": "clients.vipclient",
+  "pk": "fda7e562-3fd0-4729-b4e2-5769424b2553",
+  "fields": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "telegram": "",
+    "birth_date": null,
+    "password": "",
+    "is_registered": false,
+    "registration_date": "2025-10-07T22:54:18.904Z",
+    "bonus_points": 0
+  }
+}
+]
