@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: aurana-chocolate
+    runtime: python
+    plan: free
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn aurana.wsgi:application"
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DEBUG
+        value: "False"
+      - key: WEB_CONCURRENCY
+        value: "4"
+
+databases:
+  - name: aurana-db
+    plan: free
+    databaseName: aurana_chocolate
+    user: aurana_user
