@@ -2,9 +2,7 @@ import os
 import django
 import sys
 
-# Добавляем путь к проекту
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'aurana.settings')
 
 try:
@@ -13,13 +11,15 @@ try:
     from django.core.management import execute_from_command_line
     from django.db import transaction
     
-    print("Loading VIP clients data...")
+    print("Loading all data...")
     
-    # Загружаем данные VIP-клиентов
+    # Загружаем ВСЕ данные
     with transaction.atomic():
-        execute_from_command_line(['manage.py', 'loaddata', 'vip_clients.json'])
+        execute_from_command_line(['manage.py', 'loaddata', 'all_data.json'])
     
-    print("VIP clients data loaded successfully!")
+    print("All data loaded successfully!")
     
 except Exception as e:
-    print(f"Error loading VIP data: {e}")
+    print(f"Error loading data: {e}")
+    import traceback
+    traceback.print_exc()
